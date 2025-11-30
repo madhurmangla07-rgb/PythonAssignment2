@@ -1,4 +1,6 @@
 # main.py
+from book import Book, EBook, PrintedBook
+from inventory import Inventory
 
 
 def main():
